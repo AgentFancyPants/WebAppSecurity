@@ -8,4 +8,4 @@ The dionaea gathers the IP address along with other useful information from ever
 
 MHN-Admin uses the MongoDB as its RDBMS. The JSON file records all of the information gathered by the dionaea honeypot. 
 
-The only 
+I had a lot of difficulty deploying the MHN-Admin. I had to create multiple projects and attempt the deployment serveral times before I was successful. This was due to errors on my part due to unfamilairity with the GCP environment. Once I became more familiar with the GCP environment, the project went smoothly from there.
